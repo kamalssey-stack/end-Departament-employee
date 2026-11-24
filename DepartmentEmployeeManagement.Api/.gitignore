@@ -1,0 +1,5 @@
+.keyring/
+bin/
+obj/
+.vs/
+secrets.json
